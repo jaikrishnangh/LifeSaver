@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LifeSaver</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="num1">+919042864423</string>
+    <string name="title_activity_account">Account</string>
+</resources>
